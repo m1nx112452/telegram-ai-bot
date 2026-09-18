@@ -27,9 +27,9 @@ OFFICIAL_GROUP_LINK = "https://t.me/AriaGroupofficial"
 BOT_USERNAME = "AriaGroupofficial_Bot"
 
 GROQ_API_KEYS = [
-    "",
-    "",
-    ""
+    "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",
+    "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",
+    "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"
 ]
 
 MEDICAL_POSTER = "https://your-image-link.com/medical.jpg"
